@@ -248,13 +248,3 @@ The compiler receives:
 8. Style profiles + post-processing (ruff/black)
 
 ---
-
-This specification is now complete enough to begin vibe-coding the prototype immediately. It incorporates nested granularity, strong system-prompt direction, inter-file awareness, determinism controls, locking, rich feedback, and clear extension points.
-
-Would you like me to also produce:
-- The exact default system prompt skeleton?
-- The TypeScript/JSON schemas for the blocks?
-- A minimal watcher implementation sketch?
-- Or the initial VS Code extension contribution points?
-
-Just say the word and we can drop straight into implementation artifacts.
